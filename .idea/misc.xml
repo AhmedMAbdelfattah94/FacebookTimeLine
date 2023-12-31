@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mhmd/AndroidStudioProjects/FacebookTimeline/app/src/debug/res/drawable-anydpi/ic_like.xml" value="0.214" />
+        <entry key="..\:/Users/Mhmd/AndroidStudioProjects/FacebookTimeline/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Mhmd/AndroidStudioProjects/FacebookTimeline/app/src/main/res/layout/activity_post_details.xml" value="0.1613780598368087" />
+        <entry key="..\:/Users/Mhmd/AndroidStudioProjects/FacebookTimeline/app/src/main/res/layout/timeline_item.xml" value="0.49239280774550487" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
